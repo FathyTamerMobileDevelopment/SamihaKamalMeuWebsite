@@ -1,0 +1,274 @@
+
+/* Add font files for Almarai */
+@font-face {
+  font-family: 'Almarai';
+  src: url('fonts/almarai.woff2') format('woff2'),
+       url('fonts/almarai.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+:root {
+  --font-family-almarai: 'Almarai', sans-serif;
+}
+
+
+/* CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.art-image-5 {
+  width: 100%;
+  height: auto;
+}
+
+.text-7 {
+  font-size: 32px;
+  font-family: var(--font-family-almarai);
+  font-weight: bold;
+  line-height: 40px;
+  text-align: right;
+  color: rgba(255, 255, 255, 1);
+}
+
+.text-8 {
+  font-size: 16px;
+  font-family: var(--font-family-almarai);
+  font-weight: normal;
+  line-height: 24px;
+  text-align: left;
+  color: rgba(181, 181, 181, 1);
+}
+
+.text-6 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 12px;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+}
+
+.art-4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 28px;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+}
+
+.statue-image-10 {
+  width: 100%;
+  height: auto;
+}
+
+.text-12 {
+  font-size: 32px;
+  font-family: var(--font-family-almarai);
+  font-weight: bold;
+  line-height: 40px;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+}
+
+.text-13 {
+  font-size: 16px;
+  font-family: var(--font-family-almarai);
+  font-weight: normal;
+  line-height: 24px;
+  text-align: left;
+  color: rgba(181, 181, 181, 1);
+}
+
+.text-11 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 12px;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+}
+
+.statue-9 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 28px;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+}
+
+.decoration-15 {
+  position: absolute;
+  left: -103px;
+  top: -98px;
+  width: 475px;
+  height: 502px;
+  background-color: rgba(38, 38, 39, 1);
+}
+
+.image-17 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 993px;
+  height: 493px;
+  background-color: rgba(217, 217, 217, 1);
+  border: 24px solid rgba(16, 15, 19, 1);
+}
+
+.image-18 {
+  position: absolute;
+  left: -23.6925048828125px;
+  top: -54px;
+  width: 1016.6925048828125px;
+  height: 600px;
+  width: 100%;
+  height: auto;
+}
+
+.image-container-16 {
+  position: absolute;
+  left: -1px;
+  top: 0px;
+  width: 993px;
+  height: 493px;
+}
+
+.text-20 {
+  font-size: 32px;
+  font-family: var(--font-family-almarai);
+  font-weight: bold;
+  line-height: 40px;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+}
+
+.text-21 {
+  font-size: 16px;
+  font-family: var(--font-family-almarai);
+  font-weight: normal;
+  line-height: 24px;
+  text-align: left;
+  color: rgba(181, 181, 181, 1);
+}
+
+.text-19 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 12px;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+}
+
+.large-room-14 {
+  position: absolute;
+  left: 103px;
+  top: 854px;
+  width: 992px;
+  height: 621px;
+}
+
+.about-us-3 {
+  position: absolute;
+  left: 120px;
+  top: 0px;
+  width: 1200px;
+  height: 1475px;
+}
+
+.node-24 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1440px;
+  height: 900px;
+  opacity: 0.36000001430511475;
+  mix-blend-mode: difference;
+  width: 100%;
+  height: auto;
+}
+
+.content-25 {
+  position: absolute;
+  left: 987.5px;
+  top: 322px;
+  width: 535px;
+  height: 256px;
+}
+
+.hero-23 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1440px;
+  height: 900px;
+}
+
+.text-26 {
+  position: absolute;
+  left: 94.4130859375px;
+  top: 352px;
+  width: 1251.173828125px;
+  height: 108px;
+  font-size: 48px;
+  font-family: var(--font-family-almarai);
+  font-weight: normal;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+}
+
+.text-27 {
+  position: absolute;
+  left: 190.9921875px;
+  top: 490.1352844238281px;
+  width: 1058.015625px;
+  height: 72px;
+  font-size: 32px;
+  font-family: var(--font-family-almarai);
+  font-weight: normal;
+  text-align: center;
+  color: rgba(197, 197, 197, 1);
+}
+
+.main-container-22 {
+  position: absolute;
+  left: 0px;
+  top: 1742px;
+  width: 1440px;
+  height: 900px;
+}
+
+.frame-427319085-2 {
+  position: absolute;
+  left: 0px;
+  top: 96px;
+  width: 1440px;
+  height: 2642px;
+}
+
+.frame-427319084-1 {
+  position: absolute;
+  left: 7551px;
+  top: 35079px;
+  width: 1440px;
+  height: 2793px;
+  position: relative;
+  width: 100%;
+  height: auto;
+  background-color: rgba(0, 0, 0, 1);
+}
